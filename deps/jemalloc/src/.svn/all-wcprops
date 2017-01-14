@@ -1,0 +1,293 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/plat/!svn/ver/396/SSDB/code/trunk/server/redis-3.2.5/deps/jemalloc/src
+END
+mb.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/plat/!svn/ver/396/SSDB/code/trunk/server/redis-3.2.5/deps/jemalloc/src/mb.c
+END
+stats.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/plat/!svn/ver/396/SSDB/code/trunk/server/redis-3.2.5/deps/jemalloc/src/stats.c
+END
+mb.d
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/plat/!svn/ver/396/SSDB/code/trunk/server/redis-3.2.5/deps/jemalloc/src/mb.d
+END
+stats.d
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/plat/!svn/ver/396/SSDB/code/trunk/server/redis-3.2.5/deps/jemalloc/src/stats.d
+END
+mutex.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/plat/!svn/ver/396/SSDB/code/trunk/server/redis-3.2.5/deps/jemalloc/src/mutex.c
+END
+mutex.d
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/plat/!svn/ver/396/SSDB/code/trunk/server/redis-3.2.5/deps/jemalloc/src/mutex.d
+END
+extent.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/plat/!svn/ver/396/SSDB/code/trunk/server/redis-3.2.5/deps/jemalloc/src/extent.c
+END
+extent.d
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/plat/!svn/ver/396/SSDB/code/trunk/server/redis-3.2.5/deps/jemalloc/src/extent.d
+END
+base.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/plat/!svn/ver/396/SSDB/code/trunk/server/redis-3.2.5/deps/jemalloc/src/base.c
+END
+base.d
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/plat/!svn/ver/396/SSDB/code/trunk/server/redis-3.2.5/deps/jemalloc/src/base.d
+END
+zone.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/plat/!svn/ver/396/SSDB/code/trunk/server/redis-3.2.5/deps/jemalloc/src/zone.c
+END
+util.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/plat/!svn/ver/396/SSDB/code/trunk/server/redis-3.2.5/deps/jemalloc/src/util.c
+END
+util.d
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/plat/!svn/ver/396/SSDB/code/trunk/server/redis-3.2.5/deps/jemalloc/src/util.d
+END
+chunk_dss.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/plat/!svn/ver/396/SSDB/code/trunk/server/redis-3.2.5/deps/jemalloc/src/chunk_dss.c
+END
+rtree.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/plat/!svn/ver/396/SSDB/code/trunk/server/redis-3.2.5/deps/jemalloc/src/rtree.c
+END
+ctl.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/plat/!svn/ver/396/SSDB/code/trunk/server/redis-3.2.5/deps/jemalloc/src/ctl.c
+END
+chunk_dss.d
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/plat/!svn/ver/396/SSDB/code/trunk/server/redis-3.2.5/deps/jemalloc/src/chunk_dss.d
+END
+chunk_mmap.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/plat/!svn/ver/396/SSDB/code/trunk/server/redis-3.2.5/deps/jemalloc/src/chunk_mmap.c
+END
+rtree.d
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/plat/!svn/ver/396/SSDB/code/trunk/server/redis-3.2.5/deps/jemalloc/src/rtree.d
+END
+hash.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/plat/!svn/ver/396/SSDB/code/trunk/server/redis-3.2.5/deps/jemalloc/src/hash.c
+END
+ctl.d
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/plat/!svn/ver/396/SSDB/code/trunk/server/redis-3.2.5/deps/jemalloc/src/ctl.d
+END
+chunk_mmap.d
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/plat/!svn/ver/396/SSDB/code/trunk/server/redis-3.2.5/deps/jemalloc/src/chunk_mmap.d
+END
+hash.d
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/plat/!svn/ver/396/SSDB/code/trunk/server/redis-3.2.5/deps/jemalloc/src/hash.d
+END
+jemalloc.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/plat/!svn/ver/396/SSDB/code/trunk/server/redis-3.2.5/deps/jemalloc/src/jemalloc.c
+END
+arena.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/plat/!svn/ver/396/SSDB/code/trunk/server/redis-3.2.5/deps/jemalloc/src/arena.c
+END
+jemalloc.d
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/plat/!svn/ver/396/SSDB/code/trunk/server/redis-3.2.5/deps/jemalloc/src/jemalloc.d
+END
+arena.d
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/plat/!svn/ver/396/SSDB/code/trunk/server/redis-3.2.5/deps/jemalloc/src/arena.d
+END
+tcache.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/plat/!svn/ver/396/SSDB/code/trunk/server/redis-3.2.5/deps/jemalloc/src/tcache.c
+END
+huge.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/plat/!svn/ver/396/SSDB/code/trunk/server/redis-3.2.5/deps/jemalloc/src/huge.c
+END
+tcache.d
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/plat/!svn/ver/396/SSDB/code/trunk/server/redis-3.2.5/deps/jemalloc/src/tcache.d
+END
+huge.d
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/plat/!svn/ver/396/SSDB/code/trunk/server/redis-3.2.5/deps/jemalloc/src/huge.d
+END
+pages.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/plat/!svn/ver/396/SSDB/code/trunk/server/redis-3.2.5/deps/jemalloc/src/pages.c
+END
+pages.d
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/plat/!svn/ver/396/SSDB/code/trunk/server/redis-3.2.5/deps/jemalloc/src/pages.d
+END
+ckh.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/plat/!svn/ver/396/SSDB/code/trunk/server/redis-3.2.5/deps/jemalloc/src/ckh.c
+END
+ckh.d
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/plat/!svn/ver/396/SSDB/code/trunk/server/redis-3.2.5/deps/jemalloc/src/ckh.d
+END
+prof.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/plat/!svn/ver/396/SSDB/code/trunk/server/redis-3.2.5/deps/jemalloc/src/prof.c
+END
+valgrind.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/plat/!svn/ver/396/SSDB/code/trunk/server/redis-3.2.5/deps/jemalloc/src/valgrind.c
+END
+prof.d
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/plat/!svn/ver/396/SSDB/code/trunk/server/redis-3.2.5/deps/jemalloc/src/prof.d
+END
+quarantine.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/plat/!svn/ver/396/SSDB/code/trunk/server/redis-3.2.5/deps/jemalloc/src/quarantine.c
+END
+chunk.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/plat/!svn/ver/396/SSDB/code/trunk/server/redis-3.2.5/deps/jemalloc/src/chunk.c
+END
+quarantine.d
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/plat/!svn/ver/396/SSDB/code/trunk/server/redis-3.2.5/deps/jemalloc/src/quarantine.d
+END
+chunk.d
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/plat/!svn/ver/396/SSDB/code/trunk/server/redis-3.2.5/deps/jemalloc/src/chunk.d
+END
+atomic.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/plat/!svn/ver/396/SSDB/code/trunk/server/redis-3.2.5/deps/jemalloc/src/atomic.c
+END
+bitmap.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/plat/!svn/ver/396/SSDB/code/trunk/server/redis-3.2.5/deps/jemalloc/src/bitmap.c
+END
+atomic.d
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/plat/!svn/ver/396/SSDB/code/trunk/server/redis-3.2.5/deps/jemalloc/src/atomic.d
+END
+bitmap.d
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/plat/!svn/ver/396/SSDB/code/trunk/server/redis-3.2.5/deps/jemalloc/src/bitmap.d
+END
+tsd.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/plat/!svn/ver/396/SSDB/code/trunk/server/redis-3.2.5/deps/jemalloc/src/tsd.c
+END
+tsd.d
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/plat/!svn/ver/396/SSDB/code/trunk/server/redis-3.2.5/deps/jemalloc/src/tsd.d
+END

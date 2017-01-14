@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/plat/!svn/ver/396/SSDB/code/trunk/server/redis-3.2.5/tests/sentinel
+END
+run.tcl
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/plat/!svn/ver/396/SSDB/code/trunk/server/redis-3.2.5/tests/sentinel/run.tcl
+END

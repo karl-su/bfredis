@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/plat/!svn/ver/396/SSDB/code/trunk/server/redis-3.2.5/tests/sentinel/tests
+END
+04-slave-selection.tcl
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/plat/!svn/ver/396/SSDB/code/trunk/server/redis-3.2.5/tests/sentinel/tests/04-slave-selection.tcl
+END
+05-manual.tcl
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/plat/!svn/ver/396/SSDB/code/trunk/server/redis-3.2.5/tests/sentinel/tests/05-manual.tcl
+END
+07-down-conditions.tcl
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/plat/!svn/ver/396/SSDB/code/trunk/server/redis-3.2.5/tests/sentinel/tests/07-down-conditions.tcl
+END
+01-conf-update.tcl
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/plat/!svn/ver/396/SSDB/code/trunk/server/redis-3.2.5/tests/sentinel/tests/01-conf-update.tcl
+END
+02-slaves-reconf.tcl
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/plat/!svn/ver/396/SSDB/code/trunk/server/redis-3.2.5/tests/sentinel/tests/02-slaves-reconf.tcl
+END
+00-base.tcl
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/plat/!svn/ver/396/SSDB/code/trunk/server/redis-3.2.5/tests/sentinel/tests/00-base.tcl
+END
+06-ckquorum.tcl
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/plat/!svn/ver/396/SSDB/code/trunk/server/redis-3.2.5/tests/sentinel/tests/06-ckquorum.tcl
+END
+03-runtime-reconf.tcl
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/plat/!svn/ver/396/SSDB/code/trunk/server/redis-3.2.5/tests/sentinel/tests/03-runtime-reconf.tcl
+END

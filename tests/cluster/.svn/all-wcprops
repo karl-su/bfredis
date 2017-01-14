@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/plat/!svn/ver/396/SSDB/code/trunk/server/redis-3.2.5/tests/cluster
+END
+cluster.tcl
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/plat/!svn/ver/396/SSDB/code/trunk/server/redis-3.2.5/tests/cluster/cluster.tcl
+END
+run.tcl
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/plat/!svn/ver/396/SSDB/code/trunk/server/redis-3.2.5/tests/cluster/run.tcl
+END

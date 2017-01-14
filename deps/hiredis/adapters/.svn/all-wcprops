@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/plat/!svn/ver/396/SSDB/code/trunk/server/redis-3.2.5/deps/hiredis/adapters
+END
+libev.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/plat/!svn/ver/396/SSDB/code/trunk/server/redis-3.2.5/deps/hiredis/adapters/libev.h
+END
+libuv.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/plat/!svn/ver/396/SSDB/code/trunk/server/redis-3.2.5/deps/hiredis/adapters/libuv.h
+END
+ae.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/plat/!svn/ver/396/SSDB/code/trunk/server/redis-3.2.5/deps/hiredis/adapters/ae.h
+END
+libevent.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/plat/!svn/ver/396/SSDB/code/trunk/server/redis-3.2.5/deps/hiredis/adapters/libevent.h
+END

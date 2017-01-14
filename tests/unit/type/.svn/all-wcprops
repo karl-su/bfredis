@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/plat/!svn/ver/396/SSDB/code/trunk/server/redis-3.2.5/tests/unit/type
+END
+list-common.tcl
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/plat/!svn/ver/396/SSDB/code/trunk/server/redis-3.2.5/tests/unit/type/list-common.tcl
+END
+hash.tcl
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/plat/!svn/ver/396/SSDB/code/trunk/server/redis-3.2.5/tests/unit/type/hash.tcl
+END
+zset.tcl
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/plat/!svn/ver/396/SSDB/code/trunk/server/redis-3.2.5/tests/unit/type/zset.tcl
+END
+string.tcl
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/plat/!svn/ver/396/SSDB/code/trunk/server/redis-3.2.5/tests/unit/type/string.tcl
+END
+list-2.tcl
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/plat/!svn/ver/396/SSDB/code/trunk/server/redis-3.2.5/tests/unit/type/list-2.tcl
+END
+incr.tcl
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/plat/!svn/ver/396/SSDB/code/trunk/server/redis-3.2.5/tests/unit/type/incr.tcl
+END
+list-3.tcl
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/plat/!svn/ver/396/SSDB/code/trunk/server/redis-3.2.5/tests/unit/type/list-3.tcl
+END
+list.tcl
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/plat/!svn/ver/396/SSDB/code/trunk/server/redis-3.2.5/tests/unit/type/list.tcl
+END
+set.tcl
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/plat/!svn/ver/396/SSDB/code/trunk/server/redis-3.2.5/tests/unit/type/set.tcl
+END

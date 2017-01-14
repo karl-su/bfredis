@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/plat/!svn/ver/396/SSDB/code/trunk/server/redis-3.2.5/tests
+END
+test_helper.tcl
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/plat/!svn/ver/396/SSDB/code/trunk/server/redis-3.2.5/tests/test_helper.tcl
+END
+instances.tcl
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/plat/!svn/ver/396/SSDB/code/trunk/server/redis-3.2.5/tests/instances.tcl
+END

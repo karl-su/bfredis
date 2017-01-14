@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/plat/!svn/ver/396/SSDB/code/trunk/server/redis-3.2.5/utils
+END
+speed-regression.tcl
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/plat/!svn/ver/396/SSDB/code/trunk/server/redis-3.2.5/utils/speed-regression.tcl
+END
+redis-copy.rb
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/plat/!svn/ver/396/SSDB/code/trunk/server/redis-3.2.5/utils/redis-copy.rb
+END
+redis-sha1.rb
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/plat/!svn/ver/396/SSDB/code/trunk/server/redis-3.2.5/utils/redis-sha1.rb
+END
+install_server.sh
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/plat/!svn/ver/396/SSDB/code/trunk/server/redis-3.2.5/utils/install_server.sh
+END
+corrupt_rdb.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/plat/!svn/ver/396/SSDB/code/trunk/server/redis-3.2.5/utils/corrupt_rdb.c
+END
+whatisdoing.sh
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/plat/!svn/ver/396/SSDB/code/trunk/server/redis-3.2.5/utils/whatisdoing.sh
+END
+build-static-symbols.tcl
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/plat/!svn/ver/396/SSDB/code/trunk/server/redis-3.2.5/utils/build-static-symbols.tcl
+END
+cluster_fail_time.tcl
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/plat/!svn/ver/396/SSDB/code/trunk/server/redis-3.2.5/utils/cluster_fail_time.tcl
+END
+redis_init_script.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/plat/!svn/ver/396/SSDB/code/trunk/server/redis-3.2.5/utils/redis_init_script.tpl
+END
+redis_init_script
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/plat/!svn/ver/396/SSDB/code/trunk/server/redis-3.2.5/utils/redis_init_script
+END
+generate-command-help.rb
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/plat/!svn/ver/396/SSDB/code/trunk/server/redis-3.2.5/utils/generate-command-help.rb
+END

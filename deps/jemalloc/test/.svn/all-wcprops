@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/plat/!svn/ver/396/SSDB/code/trunk/server/redis-3.2.5/deps/jemalloc/test
+END
+test.sh
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/plat/!svn/ver/396/SSDB/code/trunk/server/redis-3.2.5/deps/jemalloc/test/test.sh
+END
+test.sh.in
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/plat/!svn/ver/396/SSDB/code/trunk/server/redis-3.2.5/deps/jemalloc/test/test.sh.in
+END

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/plat/!svn/ver/396/SSDB/code/trunk/server/redis-3.2.5/deps/geohash-int
+END
+geohash.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/plat/!svn/ver/396/SSDB/code/trunk/server/redis-3.2.5/deps/geohash-int/geohash.c
+END
+geohash_helper.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/plat/!svn/ver/396/SSDB/code/trunk/server/redis-3.2.5/deps/geohash-int/geohash_helper.h
+END
+geohash.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/plat/!svn/ver/396/SSDB/code/trunk/server/redis-3.2.5/deps/geohash-int/geohash.h
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/plat/!svn/ver/396/SSDB/code/trunk/server/redis-3.2.5/deps/geohash-int/Makefile
+END
+geohash_helper.c
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/plat/!svn/ver/396/SSDB/code/trunk/server/redis-3.2.5/deps/geohash-int/geohash_helper.c
+END

@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/plat/!svn/ver/396/SSDB/code/trunk/server/redis-3.2.5/deps/hiredis
+END
+sds.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/plat/!svn/ver/396/SSDB/code/trunk/server/redis-3.2.5/deps/hiredis/sds.h
+END
+fmacros.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/plat/!svn/ver/396/SSDB/code/trunk/server/redis-3.2.5/deps/hiredis/fmacros.h
+END
+CHANGELOG.md
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/plat/!svn/ver/396/SSDB/code/trunk/server/redis-3.2.5/deps/hiredis/CHANGELOG.md
+END
+.travis.yml
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/plat/!svn/ver/396/SSDB/code/trunk/server/redis-3.2.5/deps/hiredis/.travis.yml
+END
+zmalloc.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/plat/!svn/ver/396/SSDB/code/trunk/server/redis-3.2.5/deps/hiredis/zmalloc.h
+END
+sdsalloc.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/plat/!svn/ver/396/SSDB/code/trunk/server/redis-3.2.5/deps/hiredis/sdsalloc.h
+END
+README.md
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/plat/!svn/ver/396/SSDB/code/trunk/server/redis-3.2.5/deps/hiredis/README.md
+END
+async.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/plat/!svn/ver/396/SSDB/code/trunk/server/redis-3.2.5/deps/hiredis/async.c
+END
+test.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/plat/!svn/ver/396/SSDB/code/trunk/server/redis-3.2.5/deps/hiredis/test.c
+END
+async.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/plat/!svn/ver/396/SSDB/code/trunk/server/redis-3.2.5/deps/hiredis/async.h
+END
+dict.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/plat/!svn/ver/396/SSDB/code/trunk/server/redis-3.2.5/deps/hiredis/dict.c
+END
+.gitignore
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/plat/!svn/ver/396/SSDB/code/trunk/server/redis-3.2.5/deps/hiredis/.gitignore
+END
+net.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/plat/!svn/ver/396/SSDB/code/trunk/server/redis-3.2.5/deps/hiredis/net.c
+END
+hiredis.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/plat/!svn/ver/396/SSDB/code/trunk/server/redis-3.2.5/deps/hiredis/hiredis.c
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/plat/!svn/ver/396/SSDB/code/trunk/server/redis-3.2.5/deps/hiredis/COPYING
+END
+dict.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/plat/!svn/ver/396/SSDB/code/trunk/server/redis-3.2.5/deps/hiredis/dict.h
+END
+sds.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/plat/!svn/ver/396/SSDB/code/trunk/server/redis-3.2.5/deps/hiredis/sds.c
+END
+net.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/plat/!svn/ver/396/SSDB/code/trunk/server/redis-3.2.5/deps/hiredis/net.h
+END
+hiredis.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/plat/!svn/ver/396/SSDB/code/trunk/server/redis-3.2.5/deps/hiredis/hiredis.h
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/plat/!svn/ver/396/SSDB/code/trunk/server/redis-3.2.5/deps/hiredis/Makefile
+END

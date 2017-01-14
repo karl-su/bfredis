@@ -1,0 +1,689 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/plat/!svn/ver/446/SSDB/code/trunk/server/redis-3.2.5/src
+END
+redis-benchmark.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/plat/!svn/ver/396/SSDB/code/trunk/server/redis-3.2.5/src/redis-benchmark.c
+END
+ae_kqueue.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/plat/!svn/ver/396/SSDB/code/trunk/server/redis-3.2.5/src/ae_kqueue.c
+END
+config.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/plat/!svn/ver/483/SSDB/code/trunk/server/redis-3.2.5/src/config.c
+END
+rdb.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/plat/!svn/ver/396/SSDB/code/trunk/server/redis-3.2.5/src/rdb.c
+END
+.make-settings
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/plat/!svn/ver/396/SSDB/code/trunk/server/redis-3.2.5/src/.make-settings
+END
+quicklist.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/plat/!svn/ver/396/SSDB/code/trunk/server/redis-3.2.5/src/quicklist.c
+END
+config.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/plat/!svn/ver/396/SSDB/code/trunk/server/redis-3.2.5/src/config.h
+END
+rdb.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/plat/!svn/ver/396/SSDB/code/trunk/server/redis-3.2.5/src/rdb.h
+END
+util.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/plat/!svn/ver/396/SSDB/code/trunk/server/redis-3.2.5/src/util.c
+END
+quicklist.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/plat/!svn/ver/396/SSDB/code/trunk/server/redis-3.2.5/src/quicklist.h
+END
+memtest.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/plat/!svn/ver/396/SSDB/code/trunk/server/redis-3.2.5/src/memtest.c
+END
+release.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/plat/!svn/ver/396/SSDB/code/trunk/server/redis-3.2.5/src/release.c
+END
+ae_epoll.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/plat/!svn/ver/396/SSDB/code/trunk/server/redis-3.2.5/src/ae_epoll.c
+END
+setproctitle.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/plat/!svn/ver/396/SSDB/code/trunk/server/redis-3.2.5/src/setproctitle.c
+END
+util.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/plat/!svn/ver/396/SSDB/code/trunk/server/redis-3.2.5/src/util.h
+END
+dict.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/plat/!svn/ver/396/SSDB/code/trunk/server/redis-3.2.5/src/dict.c
+END
+ae_evport.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/plat/!svn/ver/396/SSDB/code/trunk/server/redis-3.2.5/src/ae_evport.c
+END
+db.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/plat/!svn/ver/396/SSDB/code/trunk/server/redis-3.2.5/src/db.c
+END
+redis-trib.rb
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/plat/!svn/ver/396/SSDB/code/trunk/server/redis-3.2.5/src/redis-trib.rb
+END
+release.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/plat/!svn/ver/396/SSDB/code/trunk/server/redis-3.2.5/src/release.h
+END
+debug.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/plat/!svn/ver/396/SSDB/code/trunk/server/redis-3.2.5/src/debug.c
+END
+redis-check-rdb.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/plat/!svn/ver/396/SSDB/code/trunk/server/redis-3.2.5/src/redis-check-rdb.c
+END
+networking.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/plat/!svn/ver/502/SSDB/code/trunk/server/redis-3.2.5/src/networking.c
+END
+dict.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/plat/!svn/ver/396/SSDB/code/trunk/server/redis-3.2.5/src/dict.h
+END
+t_string.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/plat/!svn/ver/396/SSDB/code/trunk/server/redis-3.2.5/src/t_string.c
+END
+multi.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/plat/!svn/ver/396/SSDB/code/trunk/server/redis-3.2.5/src/multi.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/plat/!svn/ver/396/SSDB/code/trunk/server/redis-3.2.5/src/Makefile
+END
+mkreleasehdr.sh
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/plat/!svn/ver/396/SSDB/code/trunk/server/redis-3.2.5/src/mkreleasehdr.sh
+END
+latency.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/plat/!svn/ver/396/SSDB/code/trunk/server/redis-3.2.5/src/latency.c
+END
+fmacros.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/plat/!svn/ver/396/SSDB/code/trunk/server/redis-3.2.5/src/fmacros.h
+END
+bitops.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/plat/!svn/ver/396/SSDB/code/trunk/server/redis-3.2.5/src/bitops.c
+END
+scripting.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/plat/!svn/ver/396/SSDB/code/trunk/server/redis-3.2.5/src/scripting.c
+END
+blocked.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/plat/!svn/ver/396/SSDB/code/trunk/server/redis-3.2.5/src/blocked.c
+END
+syncio.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/plat/!svn/ver/396/SSDB/code/trunk/server/redis-3.2.5/src/syncio.c
+END
+latency.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/plat/!svn/ver/396/SSDB/code/trunk/server/redis-3.2.5/src/latency.h
+END
+aof.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/plat/!svn/ver/396/SSDB/code/trunk/server/redis-3.2.5/src/aof.c
+END
+t_hash.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/plat/!svn/ver/396/SSDB/code/trunk/server/redis-3.2.5/src/t_hash.c
+END
+intset.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/plat/!svn/ver/396/SSDB/code/trunk/server/redis-3.2.5/src/intset.c
+END
+bio.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/plat/!svn/ver/396/SSDB/code/trunk/server/redis-3.2.5/src/bio.c
+END
+geo.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/plat/!svn/ver/396/SSDB/code/trunk/server/redis-3.2.5/src/geo.c
+END
+intset.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/plat/!svn/ver/396/SSDB/code/trunk/server/redis-3.2.5/src/intset.h
+END
+.make-prerequisites
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/plat/!svn/ver/396/SSDB/code/trunk/server/redis-3.2.5/src/.make-prerequisites
+END
+t_set.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/plat/!svn/ver/396/SSDB/code/trunk/server/redis-3.2.5/src/t_set.c
+END
+bio.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/plat/!svn/ver/396/SSDB/code/trunk/server/redis-3.2.5/src/bio.h
+END
+asciilogo.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/plat/!svn/ver/396/SSDB/code/trunk/server/redis-3.2.5/src/asciilogo.h
+END
+geo.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/plat/!svn/ver/396/SSDB/code/trunk/server/redis-3.2.5/src/geo.h
+END
+solarisfixes.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/plat/!svn/ver/396/SSDB/code/trunk/server/redis-3.2.5/src/solarisfixes.h
+END
+lzfP.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/plat/!svn/ver/396/SSDB/code/trunk/server/redis-3.2.5/src/lzfP.h
+END
+crc64.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/plat/!svn/ver/396/SSDB/code/trunk/server/redis-3.2.5/src/crc64.c
+END
+redis-check-aof.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/plat/!svn/ver/396/SSDB/code/trunk/server/redis-3.2.5/src/redis-check-aof.c
+END
+ae.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/plat/!svn/ver/396/SSDB/code/trunk/server/redis-3.2.5/src/ae.c
+END
+crc64.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/plat/!svn/ver/396/SSDB/code/trunk/server/redis-3.2.5/src/crc64.h
+END
+sort.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/plat/!svn/ver/396/SSDB/code/trunk/server/redis-3.2.5/src/sort.c
+END
+rio.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/plat/!svn/ver/396/SSDB/code/trunk/server/redis-3.2.5/src/rio.c
+END
+version.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/plat/!svn/ver/396/SSDB/code/trunk/server/redis-3.2.5/src/version.h
+END
+ae.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/plat/!svn/ver/396/SSDB/code/trunk/server/redis-3.2.5/src/ae.h
+END
+valgrind.sup
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/plat/!svn/ver/396/SSDB/code/trunk/server/redis-3.2.5/src/valgrind.sup
+END
+sha1.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/plat/!svn/ver/396/SSDB/code/trunk/server/redis-3.2.5/src/sha1.c
+END
+redisassert.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/plat/!svn/ver/396/SSDB/code/trunk/server/redis-3.2.5/src/redisassert.h
+END
+t_list.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/plat/!svn/ver/396/SSDB/code/trunk/server/redis-3.2.5/src/t_list.c
+END
+rio.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/plat/!svn/ver/396/SSDB/code/trunk/server/redis-3.2.5/src/rio.h
+END
+lzf_d.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/plat/!svn/ver/396/SSDB/code/trunk/server/redis-3.2.5/src/lzf_d.c
+END
+pubsub.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/plat/!svn/ver/396/SSDB/code/trunk/server/redis-3.2.5/src/pubsub.c
+END
+zipmap.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/plat/!svn/ver/396/SSDB/code/trunk/server/redis-3.2.5/src/zipmap.c
+END
+sha1.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/plat/!svn/ver/396/SSDB/code/trunk/server/redis-3.2.5/src/sha1.h
+END
+zmalloc.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/plat/!svn/ver/396/SSDB/code/trunk/server/redis-3.2.5/src/zmalloc.c
+END
+zipmap.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/plat/!svn/ver/396/SSDB/code/trunk/server/redis-3.2.5/src/zipmap.h
+END
+object.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/plat/!svn/ver/396/SSDB/code/trunk/server/redis-3.2.5/src/object.c
+END
+server.h.sz
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/plat/!svn/ver/396/SSDB/code/trunk/server/redis-3.2.5/src/server.h.sz
+END
+zmalloc.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/plat/!svn/ver/396/SSDB/code/trunk/server/redis-3.2.5/src/zmalloc.h
+END
+t_zset.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/plat/!svn/ver/396/SSDB/code/trunk/server/redis-3.2.5/src/t_zset.c
+END
+replication.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/plat/!svn/ver/396/SSDB/code/trunk/server/redis-3.2.5/src/replication.c
+END
+sdsalloc.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/plat/!svn/ver/396/SSDB/code/trunk/server/redis-3.2.5/src/sdsalloc.h
+END
+crc16.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/plat/!svn/ver/396/SSDB/code/trunk/server/redis-3.2.5/src/crc16.c
+END
+adlist.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/plat/!svn/ver/396/SSDB/code/trunk/server/redis-3.2.5/src/adlist.c
+END
+cluster.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/plat/!svn/ver/396/SSDB/code/trunk/server/redis-3.2.5/src/cluster.c
+END
+sentinel.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/plat/!svn/ver/396/SSDB/code/trunk/server/redis-3.2.5/src/sentinel.c
+END
+endianconv.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/plat/!svn/ver/396/SSDB/code/trunk/server/redis-3.2.5/src/endianconv.c
+END
+ae_select.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/plat/!svn/ver/396/SSDB/code/trunk/server/redis-3.2.5/src/ae_select.c
+END
+adlist.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/plat/!svn/ver/396/SSDB/code/trunk/server/redis-3.2.5/src/adlist.h
+END
+cluster.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/plat/!svn/ver/396/SSDB/code/trunk/server/redis-3.2.5/src/cluster.h
+END
+slowlog.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/plat/!svn/ver/396/SSDB/code/trunk/server/redis-3.2.5/src/slowlog.c
+END
+Makefile.sz
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/plat/!svn/ver/396/SSDB/code/trunk/server/redis-3.2.5/src/Makefile.sz
+END
+pqsort.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/plat/!svn/ver/396/SSDB/code/trunk/server/redis-3.2.5/src/pqsort.c
+END
+sparkline.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/plat/!svn/ver/396/SSDB/code/trunk/server/redis-3.2.5/src/sparkline.c
+END
+endianconv.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/plat/!svn/ver/396/SSDB/code/trunk/server/redis-3.2.5/src/endianconv.h
+END
+sds.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/plat/!svn/ver/396/SSDB/code/trunk/server/redis-3.2.5/src/sds.c
+END
+bitops.c.sz
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/plat/!svn/ver/396/SSDB/code/trunk/server/redis-3.2.5/src/bitops.c.sz
+END
+slowlog.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/plat/!svn/ver/396/SSDB/code/trunk/server/redis-3.2.5/src/slowlog.h
+END
+pqsort.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/plat/!svn/ver/396/SSDB/code/trunk/server/redis-3.2.5/src/pqsort.h
+END
+sparkline.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/plat/!svn/ver/396/SSDB/code/trunk/server/redis-3.2.5/src/sparkline.h
+END
+testhelp.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/plat/!svn/ver/396/SSDB/code/trunk/server/redis-3.2.5/src/testhelp.h
+END
+sds.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/plat/!svn/ver/396/SSDB/code/trunk/server/redis-3.2.5/src/sds.h
+END
+ziplist.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/plat/!svn/ver/396/SSDB/code/trunk/server/redis-3.2.5/src/ziplist.c
+END
+lzf.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/plat/!svn/ver/396/SSDB/code/trunk/server/redis-3.2.5/src/lzf.h
+END
+server.c.sz
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/plat/!svn/ver/396/SSDB/code/trunk/server/redis-3.2.5/src/server.c.sz
+END
+Makefile.dep
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/plat/!svn/ver/396/SSDB/code/trunk/server/redis-3.2.5/src/Makefile.dep
+END
+ziplist.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/plat/!svn/ver/396/SSDB/code/trunk/server/redis-3.2.5/src/ziplist.h
+END
+server.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/plat/!svn/ver/496/SSDB/code/trunk/server/redis-3.2.5/src/server.c
+END
+notify.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/plat/!svn/ver/396/SSDB/code/trunk/server/redis-3.2.5/src/notify.c
+END
+redis-cli.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/plat/!svn/ver/396/SSDB/code/trunk/server/redis-3.2.5/src/redis-cli.c
+END
+server.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/plat/!svn/ver/502/SSDB/code/trunk/server/redis-3.2.5/src/server.h
+END
+debugmacro.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/plat/!svn/ver/396/SSDB/code/trunk/server/redis-3.2.5/src/debugmacro.h
+END
+bloomfilter.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/plat/!svn/ver/505/SSDB/code/trunk/server/redis-3.2.5/src/bloomfilter.c
+END
+networking.c.sz
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/plat/!svn/ver/396/SSDB/code/trunk/server/redis-3.2.5/src/networking.c.sz
+END
+.gitignore
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/plat/!svn/ver/396/SSDB/code/trunk/server/redis-3.2.5/src/.gitignore
+END
+rand.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/plat/!svn/ver/396/SSDB/code/trunk/server/redis-3.2.5/src/rand.c
+END
+bf_ringque.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/plat/!svn/ver/503/SSDB/code/trunk/server/redis-3.2.5/src/bf_ringque.h
+END
+anet.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/plat/!svn/ver/396/SSDB/code/trunk/server/redis-3.2.5/src/anet.c
+END
+rand.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/plat/!svn/ver/396/SSDB/code/trunk/server/redis-3.2.5/src/rand.h
+END
+hyperloglog.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/plat/!svn/ver/396/SSDB/code/trunk/server/redis-3.2.5/src/hyperloglog.c
+END
+anet.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/plat/!svn/ver/396/SSDB/code/trunk/server/redis-3.2.5/src/anet.h
+END
+lzf_c.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/plat/!svn/ver/396/SSDB/code/trunk/server/redis-3.2.5/src/lzf_c.c
+END
+help.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/plat/!svn/ver/396/SSDB/code/trunk/server/redis-3.2.5/src/help.h
+END

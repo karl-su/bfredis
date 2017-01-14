@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/plat/!svn/ver/396/SSDB/code/trunk/server/redis-3.2.5/tests/assets
+END
+encodings.rdb
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/plat/!svn/ver/396/SSDB/code/trunk/server/redis-3.2.5/tests/assets/encodings.rdb
+END
+hash-zipmap.rdb
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/plat/!svn/ver/396/SSDB/code/trunk/server/redis-3.2.5/tests/assets/hash-zipmap.rdb
+END
+default.conf
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/plat/!svn/ver/396/SSDB/code/trunk/server/redis-3.2.5/tests/assets/default.conf
+END
