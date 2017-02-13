@@ -52,6 +52,8 @@ struct BFConf {
     
     uint32_t    maxReqQueLen;
 
+    uint32_t    hzCron;
+
     uint64_t    slowThreshold;
     uint64_t    slowLogSize;
 
@@ -65,7 +67,7 @@ struct BFConf {
     uint64_t    bfbsetMaxCost;
     uint64_t    bfbsetNoInThread;
 };
-static struct BFConf g_bfConf = {4, 0, 0, 0, 8, 1, BF_REQUEST_RING_QUEUE_SIZE - 1, 10000, 100, 0, 0, 0, 0, 0, 0, 0, 0};
+static struct BFConf g_bfConf = {4, 0, 0, 0, 8, 1, BF_REQUEST_RING_QUEUE_SIZE - 1, 499, 10000, 100, 0, 0, 0, 0, 0, 0, 0, 0};
 
 /* SLOW LOG 信息 */
 struct BFSlowLog {
@@ -359,6 +361,22 @@ void bfconfCommand(client *c)
         addReply(c,shared.ok);
         return ;
     }
+    else if (c->argc == 3 && !strcasecmp(c->argv[1]->ptr, "hzcron"))
+    {
+        long long hzCron;
+
+        if (getLongLongFromObject(c->argv[2], &hzCron) != C_OK 
+                || hzCron <= 0
+                || hzCron > 1000) {
+            addReplyErrorFormat(c,"Invalid CRON HZ ( >0 and <=1000) specified: %s",
+                                (char*)c->argv[2]->ptr);
+            return ;
+        }
+
+        g_bfConf.hzCron= (uint32_t)(hzCron - 1);
+        addReply(c,shared.ok);
+        return ;
+    }
     else if (c->argc == 4 && !strcasecmp(c->argv[1]->ptr, "setslowlog"))
     {
         long long slowThreshold, slowLogSize;
@@ -437,7 +455,7 @@ void bfconfCommand(client *c)
             sds info = sdsempty();
             info = sdscatprintf(info, "max_free_blocks: %u, cur_free_blocks: %u, "
                     "block_alloc_hits: %u, block_alloc_nohits: %u, thread_alloc_cnt: %u", 
-                    g_bfConf.maxFreeBlocks, g_bfConf.maxFreeBlocks,
+                    g_bfConf.maxFreeBlocks, BlockQueueLen(),
                     g_bfConf.hitFreeBlocks, g_bfConf.nohitFreeBlocks, g_bfConf.allocByThread);
             addReplyBulkSds(c, info);
             number++;
@@ -460,6 +478,14 @@ void bfconfCommand(client *c)
         {
             sds info = sdsempty();
             info = sdscatprintf(info, "sync_set_bitmap: %u", g_bfConf.syncSetBitMap);
+            addReplyBulkSds(c, info);
+            number++;
+        }
+
+        {
+            sds info = sdsempty();
+            info = sdscatprintf(info, "hz_cron: %u", 
+                    1000 / ((1000 / (g_bfConf.hzCron + 1)) ? (1000 / (g_bfConf.hzCron + 1)) : 1001));
             addReplyBulkSds(c, info);
             number++;
         }
@@ -520,9 +546,10 @@ void bfconfCommand(client *c)
                 "3. BFCONF maxfreeblocks (number) ;   "
                 "4. BFCONF syncsetbitmap (0|1) ;   "
                 "5. BFCONF maxreqquelen (number) ;   "
-                "6. BFCONF setslowlog (number_slowlog_threshold) (number_slowlog_size) ;   "
-                "7. BFCONF getslowlog (number_get_len) ;   "
-                "8. BFCONF info";
+                "6. BFCONF hzcron (number) ;   "
+                "7. BFCONF setslowlog (number_slowlog_threshold) (number_slowlog_size) ;   "
+                "8. BFCONF getslowlog (number_get_len) ;   "
+                "9. BFCONF info";
     addReplyErrorFormat(c, err);
     return ;
 }
@@ -1089,7 +1116,7 @@ int bfCron(aeEventLoop* el, long long id, void* clientData)
 
     ScanReplyQueue(1);
 
-    return 1;
+    return 1000 / (g_bfConf.hzCron + 1);
 }
 
 void* bfThreadFunc(void* arg)
